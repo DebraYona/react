@@ -1,0 +1,10 @@
+{
+  "digimons": [
+    {"id": 1, "name": "Agumon", "tipo": "virus"},
+    {"id": 2, "name": "Gagumon",  "tipo": "vacuna"},
+    {"id": 3, "name": "Guilmon ",  "tipo": "virus"}
+    {"id": 4, "name": "Gatomo ",  "tipo": "vacuna"}
+
+  ]
+
+}
